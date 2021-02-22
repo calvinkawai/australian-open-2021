@@ -1,0 +1,709 @@
+{
+    "url": "https://ausopen.com/match/2021-egor-gerasimov-vs-aslan-karatsev-ms215",
+    "Set 1": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "E. Gerasimov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 2"
+        },
+        {
+            "Game Score": "0 - 3",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "E. Gerasimov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 3"
+        },
+        {
+            "Game Score": "4 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 4"
+        },
+        {
+            "Game Score": "0 - 5",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Double Fault"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 5"
+        },
+        {
+            "Game Score": "6 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 6"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "E. GerasimovE. Gerasimov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "E. Gerasimov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "E. Gerasimov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 3"
+        },
+        {
+            "Game Score": "3 - 1",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 4"
+        },
+        {
+            "Game Score": "1 - 4",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 5"
+        },
+        {
+            "Game Score": "5 - 1",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 6"
+        },
+        {
+            "Game Score": "1 - 6",
+            "Description": "A. KaratsevA. Karatsev wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 7"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 1"
+        },
+        {
+            "Game Score": "0 - 2",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 2"
+        },
+        {
+            "Game Score": "3 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 3"
+        },
+        {
+            "Game Score": "0 - 4",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Karatsev loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "E. Gerasimov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 4"
+        },
+        {
+            "Game Score": "5 - 0",
+            "Description": "A. KaratsevA. Karatsev wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Karatsev wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Karatsev wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Karatsev is serving game 5"
+        },
+        {
+            "Description": "A. KaratsevA. Karatsev wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "E. Gerasimov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "E. Gerasimov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Karatsev wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "E. Gerasimov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "E. Gerasimov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "E. Gerasimov is serving game 6"
+        }
+    ]
+}

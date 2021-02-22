@@ -1,0 +1,1257 @@
+{
+    "url": "https://ausopen.com/match/2021-karen-khachanov-vs-matteo-berrettini-ms314",
+    "Set 1": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 3"
+        },
+        {
+            "Game Score": "1 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 11"
+        },
+        {
+            "Game Score": "6 - 6",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 12"
+        },
+        {
+            "Game Score": "6 - 7",
+            "Description": "M. BerrettiniM. Berrettini wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 1",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "2 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "3 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 4",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "1 - 4",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "5 - 1",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "6 - 1",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 13"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 11"
+        },
+        {
+            "Game Score": "6 - 6",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 12"
+        },
+        {
+            "Game Score": "7 - 6",
+            "Description": "M. BerrettiniM. Berrettini wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "1 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 2",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "1 - 2",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "2 - 2",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "3 - 2",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "3 - 3",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "4 - 3",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "4 - 4",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "5 - 4",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "4 - 6",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "5 - 6",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 13"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini wins the point with a Service Winner"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "M. Berrettini loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 11"
+        },
+        {
+            "Game Score": "6 - 6",
+            "Description": "M. BerrettiniM. Berrettini wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "M. Berrettini is serving game 12"
+        },
+        {
+            "Description": "M. BerrettiniM. Berrettini wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "1 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "0 - 2",
+                    "Description": "M. Berrettini loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "1 - 2",
+                    "Description": "M. Berrettini wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "3 - 1",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "4 - 1",
+                    "Description": "M. Berrettini loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "2 - 4",
+                    "Description": "M. Berrettini wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "3 - 4",
+                    "Description": "M. Berrettini wins the point with an Ace"
+                },
+                {
+                    "Point Score": "5 - 3",
+                    "Description": "M. Berrettini loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "5 - 4",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "5 - 5",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "6 - 5",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 13"
+        }
+    ]
+}

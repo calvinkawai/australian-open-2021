@@ -1,0 +1,934 @@
+{
+    "url": "https://ausopen.com/match/2021-dominik-koepfer-vs-hugo-dellien-ms118",
+    "Set 1": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien wins the point with an Ace"
+                }
+            ],
+            "Server": "H. Dellien is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Koepfer loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien wins the point with an Ace"
+                }
+            ],
+            "Server": "H. Dellien is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 10"
+        },
+        {
+            "Game Score": "5 - 6",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Double Fault"
+                }
+            ],
+            "Server": "H. Dellien is serving game 11"
+        },
+        {
+            "Game Score": "7 - 5",
+            "Description": "D. KoepferD. Koepfer wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 12"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "H. Dellien wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "H. Dellien is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 3"
+        },
+        {
+            "Game Score": "3 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 4"
+        },
+        {
+            "Game Score": "1 - 4",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Double Fault"
+                }
+            ],
+            "Server": "H. Dellien is serving game 5"
+        },
+        {
+            "Game Score": "5 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 6"
+        },
+        {
+            "Game Score": "2 - 5",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 7"
+        },
+        {
+            "Game Score": "6 - 2",
+            "Description": "D. KoepferD. Koepfer wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "D. Koepfer wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 8"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Double Fault"
+                }
+            ],
+            "Server": "H. Dellien is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 3"
+        },
+        {
+            "Game Score": "3 - 1",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 4"
+        },
+        {
+            "Game Score": "2 - 3",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 5"
+        },
+        {
+            "Game Score": "4 - 2",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "H. Dellien loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "H. Dellien loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "H. Dellien wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "D. Koepfer wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Koepfer loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "H. Dellien wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "D. KoepferD. Koepfer wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Koepfer loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "D. Koepfer wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer wins the point with an Ace"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 8"
+        },
+        {
+            "Game Score": "4 - 5",
+            "Description": "H. DellienH. Dellien wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Koepfer loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Koepfer loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "H. Dellien is serving game 9"
+        },
+        {
+            "Description": "D. KoepferD. Koepfer wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Koepfer loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "H. Dellien loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "H. Dellien loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Koepfer is serving game 10"
+        }
+    ]
+}

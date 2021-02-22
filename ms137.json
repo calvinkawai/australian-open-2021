@@ -1,0 +1,691 @@
+{
+    "url": "https://ausopen.com/match/2021-casper-ruud-vs-jordan-thompson-ms137",
+    "Set 1": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Ruud wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "C. Ruud is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "J. Thompson wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Ruud loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "C. Ruud loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "J. Thompson wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 5"
+        },
+        {
+            "Game Score": "2 - 4",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 6"
+        },
+        {
+            "Game Score": "5 - 2",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 7"
+        },
+        {
+            "Game Score": "3 - 5",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "J. Thompson wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 8"
+        },
+        {
+            "Game Score": "6 - 3",
+            "Description": "C. RuudC. Ruud wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 9"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "J. Thompson loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Ruud loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "J. Thompson wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "J. Thompson is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Ruud wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud wins the point with an Ace"
+                }
+            ],
+            "Server": "C. Ruud is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Ruud loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "C. Ruud is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "J. Thompson wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "C. Ruud is serving game 8"
+        },
+        {
+            "Game Score": "3 - 6",
+            "Description": "C. RuudC. Ruud wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "J. Thompson wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "J. Thompson wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 9"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "J. Thompson loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "J. ThompsonJ. Thompson wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "J. Thompson wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "J. Thompson loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Ruud loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Ruud loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "J. Thompson is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "C. RuudC. Ruud wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Ruud wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "J. Thompson loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "J. Thompson loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Ruud is serving game 3"
+        },
+        {
+            "Game Score": "Game is not finished",
+            "Description": "J. Thompson Retired",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Ruud wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "J. Thompson is serving game 4"
+        }
+    ]
+}

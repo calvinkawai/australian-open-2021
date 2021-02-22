@@ -1,0 +1,701 @@
+{
+    "url": "https://ausopen.com/match/2021-alexandre-muller-vs-diego-schwartzman-ms216",
+    "Set 1": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "A. Muller loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 2"
+        },
+        {
+            "Game Score": "0 - 3",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Schwartzman loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Muller loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 3"
+        },
+        {
+            "Game Score": "4 - 0",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 4"
+        },
+        {
+            "Game Score": "1 - 4",
+            "Description": "A. MullerA. Muller wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "D. Schwartzman wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Schwartzman loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Muller wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "D. Schwartzman wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Muller is serving game 5"
+        },
+        {
+            "Game Score": "4 - 2",
+            "Description": "A. MullerA. Muller wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 6"
+        },
+        {
+            "Game Score": "2 - 5",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 7"
+        },
+        {
+            "Game Score": "6 - 2",
+            "Description": "D. SchwartzmanD. Schwartzman wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 8"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "D. Schwartzman wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Muller wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 2"
+        },
+        {
+            "Game Score": "0 - 3",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Muller wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Muller loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Double Fault"
+                }
+            ],
+            "Server": "A. Muller is serving game 3"
+        },
+        {
+            "Game Score": "4 - 0",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 4"
+        },
+        {
+            "Game Score": "0 - 5",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Double Fault"
+                }
+            ],
+            "Server": "A. Muller is serving game 5"
+        },
+        {
+            "Game Score": "6 - 0",
+            "Description": "D. SchwartzmanD. Schwartzman wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Muller wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 6"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "A. MullerA. Muller wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Muller wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 3"
+        },
+        {
+            "Game Score": "3 - 1",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 4"
+        },
+        {
+            "Game Score": "1 - 4",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "D. Schwartzman wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 5"
+        },
+        {
+            "Game Score": "5 - 1",
+            "Description": "D. SchwartzmanD. Schwartzman wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "D. Schwartzman loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Muller loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 6"
+        },
+        {
+            "Game Score": "2 - 5",
+            "Description": "A. MullerA. Muller wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "D. Schwartzman loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "A. MullerA. Muller wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "A. Muller wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "D. Schwartzman loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "D. Schwartzman is serving game 8"
+        },
+        {
+            "Description": "D. SchwartzmanD. Schwartzman wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Muller loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "D. Schwartzman loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Muller loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Muller loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Muller is serving game 9"
+        }
+    ]
+}

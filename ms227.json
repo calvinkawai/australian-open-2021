@@ -1,0 +1,948 @@
+{
+    "url": "https://ausopen.com/match/2021-karen-khachanov-vs-ricardas-berankis-ms227",
+    "Set 1": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Double Fault"
+                }
+            ],
+            "Server": "R. Berankis is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 2"
+        },
+        {
+            "Game Score": "0 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 3"
+        },
+        {
+            "Game Score": "4 - 0",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 4"
+        },
+        {
+            "Game Score": "1 - 4",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 5"
+        },
+        {
+            "Game Score": "5 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 6"
+        },
+        {
+            "Game Score": "2 - 5",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Berankis is serving game 7"
+        },
+        {
+            "Game Score": "6 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 8"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "R. Berankis loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "R. Berankis loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with an Ace"
+                }
+            ],
+            "Server": "R. Berankis is serving game 3"
+        },
+        {
+            "Game Score": "3 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "K. Khachanov loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 4"
+        },
+        {
+            "Game Score": "2 - 3",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Berankis wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "K. Khachanov wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis wins the point with an Ace"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Berankis is serving game 5"
+        },
+        {
+            "Game Score": "4 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 8"
+        },
+        {
+            "Game Score": "4 - 5",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Berankis wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 9"
+        },
+        {
+            "Game Score": "6 - 4",
+            "Description": "K. KhachanovK. Khachanov wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 10"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "R. Berankis is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 4"
+        },
+        {
+            "Game Score": "2 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "K. Khachanov loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "R. Berankis is serving game 5"
+        },
+        {
+            "Game Score": "4 - 2",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "R. Berankis is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "K. KhachanovK. Khachanov wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 8"
+        },
+        {
+            "Game Score": "4 - 5",
+            "Description": "R. BerankisR. Berankis wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Berankis loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "K. Khachanov loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Berankis loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "K. Khachanov loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Berankis is serving game 9"
+        },
+        {
+            "Description": "K. KhachanovK. Khachanov wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "K. Khachanov wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "K. Khachanov wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Berankis loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "K. Khachanov is serving game 10"
+        }
+    ]
+}

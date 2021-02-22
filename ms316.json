@@ -1,0 +1,976 @@
+{
+    "url": "https://ausopen.com/match/2021-cameron-norrie-vs-rafael-nadal-ms316",
+    "Set 1": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "C. Norrie loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 4"
+        },
+        {
+            "Game Score": "2 - 3",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Nadal loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 11"
+        },
+        {
+            "Game Score": "5 - 7",
+            "Description": "R. NadalR. Nadal wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 12"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "C. Norrie is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 5"
+        },
+        {
+            "Game Score": "2 - 4",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 40",
+                    "Description": "C. Norrie loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "C. Norrie is serving game 6"
+        },
+        {
+            "Game Score": "5 - 2",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 7"
+        },
+        {
+            "Game Score": "2 - 6",
+            "Description": "R. NadalR. Nadal wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Norrie loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 8"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Nadal wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "R. Nadal is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie wins the point with an Ace"
+                }
+            ],
+            "Server": "C. Norrie is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Nadal loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Norrie loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Norrie wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with an Ace"
+                }
+            ],
+            "Server": "R. Nadal is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Nadal loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie wins the point with an Ace"
+                }
+            ],
+            "Server": "C. Norrie is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "R. Nadal wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "C. NorrieC. Norrie wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie wins the point with an Ace"
+                }
+            ],
+            "Server": "C. Norrie is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "R. NadalR. Nadal wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "R. Nadal loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "R. Nadal loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "R. Nadal wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "R. Nadal is serving game 11"
+        },
+        {
+            "Description": "R. NadalR. Nadal wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "C. Norrie loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "C. Norrie wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "C. Norrie wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "R. Nadal wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "C. Norrie loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "C. Norrie is serving game 12"
+        }
+    ]
+}

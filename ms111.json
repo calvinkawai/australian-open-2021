@@ -1,0 +1,1330 @@
+{
+    "url": "https://ausopen.com/match/2021-aljaz-bedene-vs-alexander-bublik-ms111",
+    "Set 1": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                }
+            ],
+            "Server": "A. Bublik is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bedene is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 6"
+        },
+        {
+            "Game Score": "3 - 4",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bedene wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 7"
+        },
+        {
+            "Game Score": "5 - 3",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 8"
+        },
+        {
+            "Game Score": "4 - 5",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 9"
+        },
+        {
+            "Game Score": "6 - 4",
+            "Description": "A. BublikA. Bublik wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 10"
+        }
+    ],
+    "Set 2": [
+        {
+            "Game Score": "0 - 1",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 1"
+        },
+        {
+            "Game Score": "2 - 0",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 2"
+        },
+        {
+            "Game Score": "1 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - AD",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "A. Bedene is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bublik is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 10"
+        },
+        {
+            "Game Score": "5 - 6",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 11"
+        },
+        {
+            "Game Score": "7 - 5",
+            "Description": "A. BublikA. Bublik wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 12"
+        }
+    ],
+    "Set 3": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bedene is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bedene is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Bublik is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bedene is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                }
+            ],
+            "Server": "A. Bublik is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bedene is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with a Service Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 8"
+        },
+        {
+            "Game Score": "5 - 4",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 9"
+        },
+        {
+            "Game Score": "5 - 5",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 10"
+        },
+        {
+            "Game Score": "6 - 5",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 11"
+        },
+        {
+            "Game Score": "5 - 7",
+            "Description": "A. BedeneA. Bedene wins the set",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 12"
+        }
+    ],
+    "Set 4": [
+        {
+            "Game Score": "1 - 0",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                }
+            ],
+            "Server": "A. Bedene is serving game 1"
+        },
+        {
+            "Game Score": "1 - 1",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 2"
+        },
+        {
+            "Game Score": "2 - 1",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 3"
+        },
+        {
+            "Game Score": "2 - 2",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 30",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik wins the point with a Service Winner"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with a Backhand Winner"
+                }
+            ],
+            "Server": "A. Bublik is serving game 4"
+        },
+        {
+            "Game Score": "3 - 2",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bedene wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 0",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bedene is serving game 5"
+        },
+        {
+            "Game Score": "3 - 3",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 6"
+        },
+        {
+            "Game Score": "4 - 3",
+            "Description": "A. BedeneA. Bedene wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "40 - 40",
+                    "Description": "A. Bedene loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "AD - 40",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik loses the point with a Forehand Forced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 7"
+        },
+        {
+            "Game Score": "4 - 4",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bublik loses the point with a Backhand Forced Error"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 8"
+        },
+        {
+            "Game Score": "4 - 5",
+            "Description": "A. BublikA. Bublik wins the game",
+            "Score Details": [
+                {
+                    "Point Score": "0 - 15",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "0 - 30",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 30",
+                    "Description": "A. Bublik loses the point with a Forehand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 40",
+                    "Description": "A. Bublik wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bedene loses the point with a Forehand Unforced Error"
+                }
+            ],
+            "Server": "A. Bedene is serving game 9"
+        },
+        {
+            "Description": "A. BublikA. Bublik wins the match",
+            "Score Details": [
+                {
+                    "Point Score": "15 - 0",
+                    "Description": "A. Bedene loses the point with a Backhand Unforced Error"
+                },
+                {
+                    "Point Score": "15 - 15",
+                    "Description": "A. Bedene wins the point with a Forehand Winner"
+                },
+                {
+                    "Point Score": "30 - 15",
+                    "Description": "A. Bedene loses the point with a Forehand Forced Error"
+                },
+                {
+                    "Point Score": "40 - 15",
+                    "Description": "A. Bublik wins the point with an Ace"
+                },
+                {
+                    "Point Score": "40 - 30",
+                    "Description": "A. Bublik loses the point with a Double Fault"
+                },
+                {
+                    "Point Score": "Game",
+                    "Description": "A. Bublik wins the point with an Ace"
+                }
+            ],
+            "Server": "A. Bublik is serving game 10"
+        }
+    ]
+}
